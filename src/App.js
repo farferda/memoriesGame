@@ -15,10 +15,6 @@ class App extends Component {
   };
 
 
-
-
-
-  
   imageClick = event => {
     const currentNuggets = event.target.alt;
     const NuggetsAlreadyClicked =
